@@ -1,0 +1,18 @@
+\contentsline {chapter}{\numberline {1}Introduction}{5}{}%
+\contentsline {section}{\numberline {1.1}Background}{5}{}%
+\contentsline {section}{\numberline {1.2}Problem Statement}{5}{}%
+\contentsline {chapter}{\numberline {2}Literature Review}{7}{}%
+\contentsline {section}{\numberline {2.1}Metode AHP}{7}{}%
+\contentsline {section}{\numberline {2.2}Makanan Favorit}{7}{}%
+\contentsline {chapter}{\numberline {3}Methods}{9}{}%
+\contentsline {section}{\numberline {3.1}Population and Sample}{9}{}%
+\contentsline {section}{\numberline {3.2}Variables}{9}{}%
+\contentsline {section}{\numberline {3.3}Instruments}{9}{}%
+\contentsline {section}{\numberline {3.4}Data Collecting}{10}{}%
+\contentsline {section}{\numberline {3.5}Data Analysis}{10}{}%
+\contentsline {section}{\numberline {3.6}Flowchart}{11}{}%
+\contentsline {chapter}{\numberline {4}Results and Discussion}{13}{}%
+\contentsline {chapter}{\numberline {5}Conclusion and Suggestion}{15}{}%
+\contentsline {section}{\numberline {5.1}Conclusion}{15}{}%
+\contentsline {section}{\numberline {5.2}Future Outlook}{15}{}%
+\contentsline {chapter}{\numberline {A}\textit {Source Code}}{19}{}%
